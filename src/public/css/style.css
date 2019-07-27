@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(to bottom, #ffe7be, #ffe6d1, #ffe9e7, #ffeff7, #fff7ff, #f8f4fa, #f2f1f4, #ededed,#a8a8b6,#a8a8b9);
+    background-repeat: no-repeat;
+}
+
+.logincard{
+  width: 560px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.resim{
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+   background-color: linear-gradient(to bottom, #ffe7be, #ffe6d1, #ffe9e7, #ffeff7, #fff7ff, #f8f4fa, #f2f1f4, #ededed, #e0e0e, #d2d2d2, #c5c5c5, #b8b8b8);
+}
